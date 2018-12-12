@@ -1,0 +1,2 @@
+# TimeLine
+Ruby on Railsで作成するAWS勉強会用のWebアプリケーション。Twitterのようなタイムラインを表示するアプリケーション。
